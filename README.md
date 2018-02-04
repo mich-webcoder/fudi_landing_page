@@ -1,2 +1,2 @@
 # fudi_landing_page
-training projects
+My training project
